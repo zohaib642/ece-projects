@@ -1,4 +1,4 @@
-# ece-projects - Zohaib Sheikh
+# ece-projects
 
 **Buck Converter (PWM Control)**
 Design and analysis of a DC-DC buck converter circuit using PWM control. Explores the relationship between switching frequency (50-100 kHz), duty cycle, and output voltage regulation. Includes current sensing measurements and characterization of the linear relationship between op-amp output and load voltage.
